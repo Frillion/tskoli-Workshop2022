@@ -1,0 +1,27 @@
+4.
+	brightness:varies from 180-250mcd
+	operating/storage temp: -40C-+85C
+
+
+5.
+	1.forward voltage: 1.85-2.5
+	2.min(Forward Voltage): (5V-1.85V)/220=14.3mA max(Forward Voltage): (5V-2.5V)/220=11.3mA
+
+6.
+	1. a)1.92 b)3.86 c).83
+	2. ~3LEDs
+7.
+	1. 22.7mA
+	2. 225ohm
+8.
+	2.
+		R1 = 4v
+		R2 = 0.88V
+	3.
+		R1 = 3.78V
+		R2 = .82V
+9.
+	1. 11.3mA
+	2. (5V-2.06V)/220 = 13.3mA
+	2. (5V-2.58V)/220 = 11mA
+	mælt: 11.42mA
