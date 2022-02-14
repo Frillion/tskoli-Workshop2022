@@ -1,3 +1,11 @@
 1.Operating Voltage Range: 4.8V-7.2V
 2.Operating Speed:0.16s/60deg(6V)
-3.
+3.Motor Handels a Wheight Up To 11kg Thats Held By a 1cm Long Arm
+
+6.3
+1.7.2V
+2. 1.68n-m
+
+6.5
+1. 25Nm
+2. 40Rpm
